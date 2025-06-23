@@ -27,20 +27,6 @@ Arquivos presentes:
 - `/PrintsLoginHome/PrintHome.jpg` — print da tela Home original
 - `/PrintsLoginHome/printLogin.jpg` — print da tela Login original
 
-## Como rodar
-
-1. Instale as dependências:
-   ```
-   npm install
-   ```
-2. Execute o projeto:
-   ```
-   npx react-native run-android
-   ```
-   ou
-   ```
-   npx react-native run-ios
-   ```
 
 ## Observações
 
